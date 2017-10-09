@@ -5,6 +5,11 @@
     padding: 2px;
 }
 
+body {
+  background-image: no-repeat;
+  background-size: cover;
+}
+
 li{
   width 30%;
   font-size: 15px;
